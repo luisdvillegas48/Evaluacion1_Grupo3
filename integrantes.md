@@ -2,4 +2,4 @@
 Omar Velasco
 Thamara Salinas
 Geremi Duran
-Diegoo inge
+Diego inge
