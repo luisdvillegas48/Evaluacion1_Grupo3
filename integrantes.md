@@ -3,4 +3,4 @@ Omar Velasco
 Thamara Salinas
 Geremi Duran
 Diego Alvarez
-deivys binn
+Deivys Paredes
