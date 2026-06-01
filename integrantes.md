@@ -5,5 +5,5 @@ Geremi Duran
 Diego Alvarez
 Deivys Paredes
 
-Sergioo Medinaa Pro
+Sergio Medina Pro
 
