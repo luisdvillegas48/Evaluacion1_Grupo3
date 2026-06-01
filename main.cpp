@@ -20,7 +20,7 @@ int main() {
     cout << "****************************************************" << endl;
     cout << "*     INTEGRANTES DEL GRUPO 3 QUE PARTICIPARON:    *" << endl;
     cout << "****************************************************" << endl;
-    cout << " -> " << endl;
+    cout << " -> Luis Villegas CI:30.742.958 " << endl;
     cout << " -> " << endl;
     cout << " -> " << endl;
     cout << " -> " << endl;
