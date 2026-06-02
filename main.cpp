@@ -14,14 +14,14 @@ int main() {
     string nombreUsuario;
     cout << "Por favor, ingrese su nombre para iniciar la prueba: ";
     cin >> nombreUsuario;
-    cout << "\n[OK] ¡Hola, " << nombreUsuario << "! El contenedor interactivo" << endl;
+    cout << "\n[OK] ï¿½Hola, " << nombreUsuario << "! El contenedor interactivo" << endl;
     cout << "     esta procesando tus datos de manera exitosa.\n" << endl;
 
     cout << "****************************************************" << endl;
     cout << "*     INTEGRANTES DEL GRUPO 3 QUE PARTICIPARON:    *" << endl;
     cout << "****************************************************" << endl;
     cout << " -> Luis Villegas CI:30.742.958 " << endl;
-    cout << " -> " << endl;
+    cout << " -> Thamara Salinas CI:33.631.791 " << endl;
     cout << " -> " << endl;
     cout << " -> " << endl;
     cout << " -> " << endl;
