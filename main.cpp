@@ -23,9 +23,9 @@ int main() {
     cout << " -> Luis Villegas CI:30.742.958 " << endl;
     cout << " -> Thamara Salinas CI:33.631.791 " << endl;
     cout << " -> Deivys Paredes CI:30.956.510 " << endl;
-    cout << " -> Diego Alvarez CI:30772515 " << endl;
+    cout << " -> Diego Alvarez CI:30.772.515 " << endl;
     cout << " -> Geremi Duran CI: 32.860.444 " << endl;
-    cout << " -> " << endl;
+    cout << " -> Omar Velasco CI: 30.452.558" << endl;
     cout << " -> " << endl;
      
     cout << "**********************************************************" << endl;
