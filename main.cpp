@@ -1,4 +1,4 @@
-D#include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -14,7 +14,7 @@ int main() {
     string nombreUsuario;
     cout << "Por favor, ingrese su nombre para iniciar la prueba: ";
     cin >> nombreUsuario;
-    cout << "\n[OK] �Hola, " << nombreUsuario << "! El contenedor interactivo" << endl;
+    cout << "\n[OK] Hola, " << nombreUsuario << "! El contenedor interactivo" << endl;
     cout << "     esta procesando tus datos de manera exitosa.\n" << endl;
 
     cout << "****************************************************" << endl;
