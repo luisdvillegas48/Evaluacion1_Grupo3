@@ -26,7 +26,7 @@ int main() {
     cout << " -> Diego Alvarez CI:30.772.515 " << endl;
     cout << " -> Geremi Duran CI: 32.860.444 " << endl;
     cout << " -> Omar Velasco CI: 30.452.558" << endl;
-    cout << " -> " << endl;
+    cout << " -> Sergio Medina CI:32.053.351" << endl;
      
     cout << "**********************************************************" << endl;
     cout << "* Proceso finalizado. Presione ENTER o cierre la consola *" << endl;
