@@ -4,6 +4,8 @@ WORKDIR /app
 
 COPY . .
 
-RUN g++ -o programa_grupo3 main.cpp
+RUN g++ -o programa_grupal *.cpp
 
-CMD ["./programa_grupo3"]
+
+
+CMD ["./programa_grupal"]
